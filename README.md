@@ -1,1 +1,1 @@
-# tourney-reg-app
+# Tournament registration app
