@@ -1,0 +1,19 @@
+{
+  "name": "tourneyregapp",
+  "version": "1.0.0",
+  "description": "Tournament registration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdlepley/tourney-reg-app.git"
+  },
+  "author": "Matt Lepley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdlepley/tourney-reg-app/issues"
+  },
+  "homepage": "https://github.com/mdlepley/tourney-reg-app#readme"
+}
